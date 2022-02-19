@@ -1,5 +1,5 @@
 ### Hello World!🌍 
-### Hi there 👋 I'am Shardul Zende ![dev_cat](https://user-images.githubusercontent.com/76963813/154784793-59f91608-d60c-4e85-b3d2-86482645b272.gif)
+### Hi there 👋 I'am Shardul Zende ![dev_cat](https://user-images.githubusercontent.com/76963813/154784793-59f91608-d60c-4e85-b3d2-86482645b272.gif = 100*100)
 
 - 📫 How to reach me: shardulzende28@gmail.com
 
